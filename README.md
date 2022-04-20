@@ -1,5 +1,6 @@
 # Fila de prioridades
 Trabalho para disciplina de Estrutura de dados avançada.
+Grupo: Pablo e Israel
 
 ## Dependecias
  - Python 3
